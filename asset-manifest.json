@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Attendance-Calculator/static/css/main.f74a71f1.css",
+    "main.js": "/Attendance-Calculator/static/js/main.5cd073a4.js",
+    "static/js/453.a3ef94d2.chunk.js": "/Attendance-Calculator/static/js/453.a3ef94d2.chunk.js",
+    "index.html": "/Attendance-Calculator/index.html",
+    "main.f74a71f1.css.map": "/Attendance-Calculator/static/css/main.f74a71f1.css.map",
+    "main.5cd073a4.js.map": "/Attendance-Calculator/static/js/main.5cd073a4.js.map",
+    "453.a3ef94d2.chunk.js.map": "/Attendance-Calculator/static/js/453.a3ef94d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f74a71f1.css",
+    "static/js/main.5cd073a4.js"
+  ]
+}
